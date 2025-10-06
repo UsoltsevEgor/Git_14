@@ -1,0 +1,11 @@
+C:\Users\usolt\Desktop\WText\bin\Debug\WText.exe.config
+C:\Users\usolt\Desktop\WText\bin\Debug\WText.exe
+C:\Users\usolt\Desktop\WText\bin\Debug\WText.pdb
+C:\Users\usolt\Desktop\WText\obj\Debug\WText.csproj.AssemblyReference.cache
+C:\Users\usolt\Desktop\WText\obj\Debug\WText.Form1.resources
+C:\Users\usolt\Desktop\WText\obj\Debug\WText.Form2.resources
+C:\Users\usolt\Desktop\WText\obj\Debug\WText.Properties.Resources.resources
+C:\Users\usolt\Desktop\WText\obj\Debug\WText.csproj.GenerateResource.cache
+C:\Users\usolt\Desktop\WText\obj\Debug\WText.csproj.CoreCompileInputs.cache
+C:\Users\usolt\Desktop\WText\obj\Debug\WText.exe
+C:\Users\usolt\Desktop\WText\obj\Debug\WText.pdb
