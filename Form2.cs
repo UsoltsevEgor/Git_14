@@ -15,6 +15,7 @@ namespace WText
         public Form2()
         {
             InitializeComponent();
+            label1.Text = Form1.text;
         }
     }
 }

@@ -17,8 +17,11 @@ namespace WText
             InitializeComponent();
         }
 
+        public static string text = "";
+
         private void button1_Click(object sender, EventArgs e)
         {
+            text = textBox1.Text;
             Form2 form2 = new Form2();
             form2.Show();
         }
