@@ -9,3 +9,4 @@ C:\Users\usolt\Desktop\WText\obj\Debug\WText.csproj.GenerateResource.cache
 C:\Users\usolt\Desktop\WText\obj\Debug\WText.csproj.CoreCompileInputs.cache
 C:\Users\usolt\Desktop\WText\obj\Debug\WText.exe
 C:\Users\usolt\Desktop\WText\obj\Debug\WText.pdb
+C:\Users\usolt\Desktop\WText\obj\Debug\WText.exe.config
